@@ -21,7 +21,7 @@ yaml_version: 4
 #
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
-  author:       ""      # Your name
+  author:       "Chih-Kuan Ho and David Parent "      # Your name
   title:        "Intructouction to PRBS"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
   description:  "This is a simple design used to verify the design flow, so that we can teach lower division college studdnts IC desgin."      # Short description of what your project does
