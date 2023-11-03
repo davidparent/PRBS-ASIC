@@ -28,7 +28,7 @@ documentation:
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
-      This takes a 4 bit LSFR confugred as a PRBS=X^3+X^2+1  Reset sets three DFF to zero and one to 1 to make sure the osiclation starts.  The outpus are for a 7 segment displant and the last out put is for the PRBS
+      This takes a 4 bit LSFR confugred as a PRBS=X^3+X^2+1  Reset sets four DFF to zero   to make sure the osiclation starts. This uses XNOR because there was a synth warning The outpus are for a 7 segment displant and the last out put is for the PRBS
 
 # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
   how_to_test:  |
